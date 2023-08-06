@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atim</h1>
+<h1 align="center">Hi I'm Atim</h1>
 <h3 align="center">A passionate backend java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrprk3&label=Profile%20views&color=0e75b6&style=flat" alt="mrprk3" /> </p>
